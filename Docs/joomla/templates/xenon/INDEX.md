@@ -56,16 +56,16 @@ Key Features
 
 ![Particles](ft-2.jpg)
 
-TThe template features a diverse collection of new particles, to enrich your site content. Xenon debuts Chartist, a visually stunning graphical chart display script, alongside the News Slider and News ticker particles, amongst several others.
+The template features a diverse collection of new particles, to enrich your site content. Xenon debuts Chartist, a visually stunning graphical chart display script, alongside the News Slider and News ticker particles, amongst several others.
 
 ## Login Popup
 
 ![Overlay](ft-3.jpg)
 
-The Login module is now displayable in its own popup modal, allowing you to maximize screen usage and still providing an easy to access method for logging into your site. Modals are used intuitively throughout the Gantry 5 Framework.
+The Login module is now displayable in its own popup modal, allowing you to maximize screen usage while still providing an easy to access method for logging into your site. Modals are used intuitively throughout the Gantry 5 Framework.
 
 ## Responsive
 
 ![Responsive](ft-4.jpg)
 
-Xenon is a responsive template which means it adapts to the viewing device's width, such as mobile, tablet or desktop. Mobile modes have a unique menu to aid usability. Support classes can also be used to display or hide various types of content for each device.
+Xenon is a responsive template, which means it adapts to the viewing device's width, such as mobile, tablet or desktop. Mobile modes have a unique menu to aid usability. Support classes can also be used to display or hide various types of content for each device.
